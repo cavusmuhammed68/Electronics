@@ -1,0 +1,15 @@
+Electricity Consumption - Normalised Evaluation Metrics:
+MAE:  0.0494
+RMSE: 0.0832
+R²:   0.4376
+
+PV Generation - Normalised Evaluation Metrics:
+MAE:  0.0134
+RMSE: 0.0273
+R²:   0.6886
+
+
+Wind Generation - Normalised Evaluation Metrics:
+MAE:  0.0141
+RMSE: 0.0264
+R²:   0.5146

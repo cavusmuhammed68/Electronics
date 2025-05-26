@@ -1,0 +1,6 @@
+Section 5.2 – Performance Comparison (Normalised Scale):
+               Model       MAE      RMSE      MAPE        R²
+0              Naive  0.060752  0.097747  0.149795  0.224127
+1  Linear Regression  0.048126  0.076919  0.118725  0.519544
+2               LSTM  0.049559  0.079195  0.120143  0.490701
+3          ST-CALNet  0.048452  0.079506  0.115571  0.486688
